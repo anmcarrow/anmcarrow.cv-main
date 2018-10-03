@@ -3,16 +3,16 @@
 Макаров Андрей Николаевич
 ===========================
 
-- **Mail:** [mb@mcrrw.me](mailto:mb@mcrrw.me)
-- **Telegram:** [anmcarrow](https://t.me/anmcarrow)
-- **Skype:** [anmcarrow](skype:username)
-- **LinkedIn:** [linkedin.com/in/andrey-makarov-3b7646120](https://linkedin.com/in/andrey-makarov-3b7646120/)
+**Mail:** [mb@mcrrw.me](mailto:mb@mcrrw.me)  
+**Telegram:** [anmcarrow](https://t.me/anmcarrow)  
+**Skype:** [anmcarrow](skype:username)  
+**LinkedIn:** [linkedin.com/in/andrey-makarov-3b7646120](https://linkedin.com/in  /andrey-makarov-3b7646120/)
 
-- **Location:** Россия, Екатеринбург
-- **Nationality:** Русский
-- **Education:** среднее общее
+**Location:** Россия, Екатеринбург  
+**Nationality:** Русский  
+**Education:** среднее общее  
 
-- **Languages:** Ru/En
+**Languages:** Ru/En  
 
 Специализации
 ----------------------------
