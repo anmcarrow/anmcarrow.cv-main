@@ -74,7 +74,7 @@ Working experience
 ✔ Growed, upgraded and streamlined whole LAN structure and routes;
 ✔ Optimized cloud web-service costs for the company.
 
-####  NetAngels.ru | Webhosting/Cloud Helpdesk Engineer | 08.2012 — 09.2017
+####  NetAngels.ru | Webhosting/Cloud Helpdesk Engineer | 08.2012 — 09.2016
 
 — On-call shifts and technical incidents routines;
 — Troubleshooting, recovering and maintenance for the clients' web-services/VMs;
