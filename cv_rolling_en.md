@@ -59,7 +59,7 @@ Working experience
 ✔ Created Ansible-code for the offline deployment of Docker-images to the PaaS VMs;    
 ✔ Implement Prometheus + ELK-based monitoring system and Kubernetes-based deployment for the developers' services;    
 ✔ Decomposed Ansible monolithic legacy-repo to the components-oriented submodules;    
-✔ Coded the procedures for the full-auto deploy whole virtualized infrastructure and software components of IAPE to the Openstack IaaS;    
+✔ Coded the full-auto deploy whole virtualized infrastructure and software components of IAPE to the Openstack IaaS;    
 ✔ Implement the static code analysis of the Ansible roles with the Gitlab CI in the development pipeline.
 
 ####  Targem Games | System Administrator | 07.2016 — 08.2017
