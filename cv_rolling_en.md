@@ -48,7 +48,7 @@ Rationalist and workaholic. Work hard, play hard, study every day. Always thinks
 Working experience
 ----------------------------
 
-####  Iskratel LLC (Urals chapt.) | Automation engineer | 09.2017 — ...
+####  Iskratel LLC (Urals chapt.) | Automation engineer | 08.2017 — ...
 
 — Developing parts of the Iskratel IAPE project (IoT, SDN, energy-industry oriented PaaS);  
 — OpenStack-clusters deployment and basic administration;  
@@ -62,7 +62,7 @@ Working experience
 ✔ Coded the procedures for the full-auto deploy whole virtualized infrastructure and software components of IAPE to the Openstack IaaS;  
 ✔ Implement the static code analysis of the Ansible roles with the Gitlab CI in the development pipeline.
 
-####  Targem Games | System Administrator | 08.2016 — 09.2017
+####  Targem Games | System Administrator | 07.2016 — 08.2017
 
 
 — Local area network, services, and over 100 workstation maintenance;
@@ -74,7 +74,7 @@ Working experience
 ✔ Growed, upgraded and streamlined whole LAN structure and routes;
 ✔ Optimized cloud web-service costs for the company.
 
-####  NetAngels.ru | Webhosting/Cloud Helpdesk Engineer | 08.2012 — 09.2016
+####  NetAngels.ru | Webhosting/Cloud Helpdesk Engineer | 08.2012 — 07.2016
 
 — On-call shifts and technical incidents routines;
 — Troubleshooting, recovering and maintenance for the clients' web-services/VMs;
