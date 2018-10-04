@@ -58,7 +58,7 @@ Working experience
 ✔ Developed automation scenarios and Docker-templates to the base applications of the project;    
 ✔ Created Ansible-code for the offline deployment of Docker-images to the PaaS VMs;    
 ✔ Implement Prometheus + ELK-based monitoring system and Kubernetes-based deployment for the developers' services;    
-✔ Decomposed Ansible monolithic legacy-repo to the components-oriented submodules;    
+✔ Decomposed Ansible monolithic legacy-repo to the component-oriented submodules;    
 ✔ Coded the full-auto deploy of the whole virtualized infrastructure and software components of IAPE to the Openstack IaaS;    
 ✔ Implement the static code analysis of the Ansible roles with the Gitlab CI in the development pipeline.
 
