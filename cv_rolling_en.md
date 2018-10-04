@@ -14,6 +14,8 @@ Andrey Makarov
 
 **Languages:** Ru/En  
 
+**Professional experience:** over 10 years
+
 Highlights
 ----------------------------
 
@@ -45,7 +47,7 @@ About me
 
 Rationalist and workaholic. Work hard, play hard, study every day. Always thinks about business KPI. Like to systematic, automated and smart things.
 
-Working experience
+Last working experience
 ----------------------------
 
 ####  Iskratel LLC (Urals chapt.) | Automation engineer | 08.2017 — ...
