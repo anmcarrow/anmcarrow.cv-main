@@ -8,9 +8,9 @@ Andrey Makarov
 **Skype:** [anmcarrow](skype:username)  
 **LinkedIn:** [linkedin.com/in/andrey-makarov-3b7646120](https://linkedin.com/in/andrey-makarov-3b7646120/)
 
-**Location:** Россия, Екатеринбург  
-**Nationality:** Русский  
-**Education:** среднее общее  
+**Location:** Russia, Ekaterinburg  
+**Nationality:** Russian  
+**Education:** High school
 
 **Languages:** Ru/En  
 
